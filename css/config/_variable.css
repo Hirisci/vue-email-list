@@ -1,0 +1,25 @@
+:root {
+  /*╔════════════════════════════╗
+            COLORS
+    ╚════════════════════════════╝*/
+
+  /*╔════════════════════════════╗
+        COMPONENT DIMENSION
+    ╚════════════════════════════╝*/
+  /* width */
+  --wdt-container: 100rem;
+  /* heigth */
+  --hgt-item: 4rem;
+  --hgt-item-lg: 4.5rem;
+  --hgt-item-sm: 2.5rem;
+
+  /*╔════════════════════════════╗
+              GUTTERS
+    ╚════════════════════════════╝*/
+  --gutter-xs: 0.25rem;
+  --gutter-sm: 0.5rem;
+  --gutter-md: 1rem;
+  --gutter-lg: 1.5rem;
+  --gutter-xl: 2rem;
+  --gutter-xxl: 3rem;
+}
